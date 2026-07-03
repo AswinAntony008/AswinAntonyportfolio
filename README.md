@@ -2,7 +2,7 @@
 
 Personal developer portfolio for **Aswin Antony G**, a Python Full-Stack Developer specializing in Django, REST APIs, and SEO-driven web development.
 
-**Live site:** `(https://aswinantony008.github.io/AswinAntonyportfolio/)` *(update after deploying)*
+**Live site:** `(https://aswinantony008.github.io/AswinAntonyportfolio/)` 
 
 ---
 
